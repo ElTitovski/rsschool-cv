@@ -25,13 +25,12 @@ Adobe Photoshop | ★★★☆☆
 
 
 
-###s Example of code:
+### Example of code:
 
 ```
 function multiply(a, b){
   return (a*b)
 }
-
 ```
 
 There are [example](https://github.com/ElTitovski/rsschool-cv/blob/gh-pages/cv.md) of my work 
