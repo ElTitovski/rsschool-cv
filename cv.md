@@ -11,12 +11,16 @@ Skills | Level
 HTML   | ★★★★★
 CSS    | ★★★☆☆
 JS     | ★☆☆☆☆
-Git    | ★★☆☆☆
+Git    | ★☆☆☆☆
 Figma  | ★★★☆☆
 Adobe Photoshop | ★★★☆☆
 
 
-5. Примеры кода 5
+```
+function multiply(a, b){
+  return (a*b)
+}
+```
 
 There are [github.com/ElTitovski](examples) of my work 
 
