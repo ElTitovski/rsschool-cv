@@ -1,8 +1,15 @@
 # **Elena Titovski**
 
-![avatar](/avatar.png)
+## Contacts:
 
-### elena.titovski@gmail.com 
+* email: **elena.titovski@gmail.com**
+* telegram: **@pluminus**
+* discord: **eltit #1239**
+* github: [github.com/ElTitovski](ElTitovski)
+
+===
+
+## About me:
 
 I have been studying web development since December 2021. I chose the frontend. It is one of the most open external entrances to the IT industry. In the future I want to work on mobile applications.
 
@@ -15,6 +22,10 @@ Git    | ★☆☆☆☆
 Figma  | ★★★☆☆
 Adobe Photoshop | ★★★☆☆
 
+===
+
+
+## Example of code:
 
 ```
 function multiply(a, b){
@@ -23,7 +34,7 @@ function multiply(a, b){
 
 ```
 
-There are [github.com/ElTitovski](examples) of my work 
+There are [examples](github.com/ElTitovski) of my work 
 
 Education: *secondary*
 
