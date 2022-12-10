@@ -5,7 +5,7 @@
 * email: **elena.titovski@gmail.com**
 * telegram: **@pluminus**
 * discord: **eltit #1239**
-* github: [github.com/ElTitovski](ElTitovski)
+* github: [ElTitovski](github.com/ElTitovski)
 
 
 
