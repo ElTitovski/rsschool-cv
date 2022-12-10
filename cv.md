@@ -1,11 +1,26 @@
-1. Елена Титовски 1
+# **Elena Titovski**
 
-2. elena.titovski@gmail.com 2
+![avatar](/avatar.png)
 
-3. Изучаю веб-разработку с декабря 2021. Особенно интересна тема доступности интерфейсов для людей с повышенными потребностями. Выбрала frontend направление т.к. это один из самых простых способов входа в IT-индустрию. В будущем хочу работать над мобильными приложениями. 3
+### elena.titovski@gmail.com 
 
-4. HTML CSS JS Figma Adobe Photoshop 4
+I have been studying web development since December 2021. I chose the frontend. It is one of the most open external entrances to the IT industry. In the future I want to work on mobile applications.
+
+Skills | Level
+-------|:-----:
+HTML   | ★★★★★
+CSS    | ★★★☆☆
+JS     | ★☆☆☆☆
+Git    | ★★☆☆☆
+Figma  | ★★★☆☆
+Adobe Photoshop | ★★★☆☆
+
+
 5. Примеры кода 5
-6. Примеры моих работ есть здесь: github.com/ElTitovski 6
-7. Образование среднее полное 7
-8. Английский язык уровень B1 8
+
+There are [github.com/ElTitovski](examples) of my work 
+
+Education: *secondary*
+
+Russian: *native*
+English: *B1*
