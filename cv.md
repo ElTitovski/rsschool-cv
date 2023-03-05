@@ -9,6 +9,10 @@
 
 **telegram:** @titovski
 
+**discord:** eltit#1234
+
+[**Github**](https://github.com/ElTitovski)
+
 ## Skills
 
 Skill | Level
