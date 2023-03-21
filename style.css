@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+}
+ul{
+    list-style: none;
+    margin-left: 0; 
+    padding-left: 0;   
+}
+
+
+a{
+    text-decoration: none;
+
+}
+ main{
+    display: flex;
+    flex-direction: row;
+}
+
+.nickname {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+
+}
+
+header,main{
+    max-width: 1180px;
+    margin: 0em auto 0em auto;
+}
+
+.header-conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+
+.main-text{
+    margin: 2em auto 0em auto;
+    display: flex;
+    gap: 2.5em;
+    flex-direction: column;
+
+}
+
+.name{
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 2em;
+}
+
+.about-text, .experinse-text, .contacts, .skills, .languages{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1em;
+line-height: 125%;
+
+
+}
+
+.experiense-conteiner{
+    display: flex;
+}
+
+
+.experiense-title, .contacts__title, .example-code__title, .skills__title, .languages__title{
+    font-family: 'Work Sans';
+    font-size: 1.5em;
+    line-height: 125%;
+}
+
+@font-face {
+    font-family: Hack;
+    src: url(/fonts/Hack-Regular.ttf);
+}
+code{
+    background-color: #f6f8fa;
+    font-family: Hack;
+}
